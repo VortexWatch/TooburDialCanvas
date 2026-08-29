@@ -6,7 +6,6 @@ Watch face editor for the TOOBUR IDW20 Smartwatch
 ## Features
 - Create and edit watch faces for the TOOBUR IDW20 Smartwatch
 - Preview watch faces in real-time
-- Add ring widgets
 - Raw iwf.json (IDO Watch Face Configuration) file editing
 - And more...
 

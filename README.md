@@ -37,4 +37,4 @@ This application is designed to work with the TOOBUR IDW20 Smartwatch. It may wo
 ---
 
 ## Contact
-If you have any questions or need support, please reach out to the VortexWatch Studio at: `vortexwatch@proton.me`
+If you have any questions or need support, please reach out to VortexWatch Studio at: `vortexwatch@proton.me`
